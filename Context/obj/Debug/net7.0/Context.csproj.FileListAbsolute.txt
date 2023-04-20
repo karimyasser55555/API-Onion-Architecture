@@ -1,0 +1,17 @@
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\Context\bin\Debug\net7.0\Context.deps.json
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\Context\bin\Debug\net7.0\Context.runtimeconfig.json
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\Context\bin\Debug\net7.0\Context.dll
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\Context\bin\Debug\net7.0\Context.pdb
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\Context\bin\Debug\net7.0\Domain.dll
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\Context\bin\Debug\net7.0\Domain.pdb
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\Context\obj\Debug\net7.0\Context.csproj.AssemblyReference.cache
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\Context\obj\Debug\net7.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\Context\obj\Debug\net7.0\Context.AssemblyInfoInputs.cache
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\Context\obj\Debug\net7.0\Context.AssemblyInfo.cs
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\Context\obj\Debug\net7.0\Context.csproj.CoreCompileInputs.cache
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\Context\obj\Debug\net7.0\Context.csproj.CopyComplete
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\Context\obj\Debug\net7.0\Context.dll
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\Context\obj\Debug\net7.0\refint\Context.dll
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\Context\obj\Debug\net7.0\Context.pdb
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\Context\obj\Debug\net7.0\Context.genruntimeconfig.cache
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\Context\obj\Debug\net7.0\ref\Context.dll
