@@ -1,0 +1,12 @@
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\QenaDtos\bin\Debug\net7.0\QenaDtos.deps.json
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\QenaDtos\bin\Debug\net7.0\QenaDtos.dll
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\QenaDtos\bin\Debug\net7.0\QenaDtos.pdb
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\QenaDtos\obj\Debug\net7.0\QenaDtos.csproj.AssemblyReference.cache
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\QenaDtos\obj\Debug\net7.0\QenaDtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\QenaDtos\obj\Debug\net7.0\QenaDtos.AssemblyInfoInputs.cache
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\QenaDtos\obj\Debug\net7.0\QenaDtos.AssemblyInfo.cs
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\QenaDtos\obj\Debug\net7.0\QenaDtos.csproj.CoreCompileInputs.cache
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\QenaDtos\obj\Debug\net7.0\QenaDtos.dll
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\QenaDtos\obj\Debug\net7.0\refint\QenaDtos.dll
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\QenaDtos\obj\Debug\net7.0\QenaDtos.pdb
+D:\ITI\ASP.NET MVC + API + Core\Projects\API_Day1_Project\QenaDtos\obj\Debug\net7.0\ref\QenaDtos.dll
